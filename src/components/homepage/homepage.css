@@ -1,0 +1,312 @@
+.homebarAllContainer{
+    background-color: cadetblue;
+    height: 100vh;
+    width: 100%;
+    
+}
+
+
+.leftRightMidAllContainer{
+    display: flex;
+}
+.leftbarAllContainer{
+    width: 20%;
+    height: 100vh;
+}
+
+.leftbarAllContainer h2{
+    text-align: center;
+    font-style: italic;
+}
+
+.Allleftbar-iicons{
+margin: 50px;
+}
+
+.Allleftbar-iicons span{
+  margin: 5px;
+}
+
+
+.homebarAllcontainer{
+   
+    width: 60%;
+    height: 100vh;
+    border-left: 1.5px solid gray;
+    
+}
+
+.navBar-container{
+    height: 20vh;
+    border-bottom: 1px solid gray;
+    
+  
+}
+
+.downBar-coontainer{
+    height: 80vh;
+    
+}
+
+.topdiv{
+    height: 5vh;
+    border: 1px solid gray;
+   background-color: whitesmoke;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 100px;
+   
+  
+}
+
+
+.topdiv span{
+    margin: 5px;
+    
+}
+
+.spantag{
+    margin-left: 20px;
+}
+
+.imagebar{
+    height: 5vh;
+    width: 30px;
+    margin-left: 650px;
+    border-radius: 40px;
+    background-color: whitesmoke;
+   object-fit: cover;
+}
+
+.namelist{
+    display: flex;
+    
+}
+
+.data{
+    color: whitesmoke;
+}
+
+.namelist div{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: whitesmoke;
+}
+
+.raj{
+    height: 13vh;
+    color: whitesmoke;
+}
+
+
+.raj1{
+  
+    height: 13vh;
+    color: whitesmoke;
+    border: 1px solid gray;
+}
+
+.raj1 img{
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+.raj2{
+   
+    height: 13vh;
+    color: whitesmoke;
+}
+
+
+.raj3{
+   
+    height: 13vh;
+    color: whitesmoke;
+    border: 1px solid gray;
+}
+
+
+.raj4{
+   
+    height: 13vh;
+    color: whitesmoke;
+}
+
+
+.raj5{
+    
+    height: 11vh;
+    color: whitesmoke;
+    border: 1px solid gray;
+}
+
+.datalist{
+    display: flex;
+}
+
+.datalist div{
+    margin: 30px;
+}
+
+
+
+.rajan{
+    margin-left: 10px;
+    margin-top: 25px;
+    
+}
+
+.raj1list{
+    display: flex;
+    
+}
+
+.raj1list div{
+    margin-top: 25px;
+    margin: 35px;
+}
+
+
+
+.raj2 img{
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+
+
+.raj3 img{
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+
+
+.raj4 img{
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+
+.raj5 img{
+    height: 30px;
+    margin-top: 20px;
+    width: 30px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.righttbarAllcontainer{
+    width: 20%;
+    height: 100vh;
+    border-left: 1.5px solid gray;
+    
+}
+
+.rightNavr-coontainer{
+    height: 10vh;
+    border-bottom: 1px solid gray;
+    display: flex; 
+}
+
+
+
+
+.rightmidbar-container{
+    height: 30vh;
+}
+
+.image2-container img{
+height: 20vh;
+text-align: center;
+width: 100px;
+margin-left: 60px;
+margin-top: 5px;
+border-radius: 100px;
+}
+
+
+
+
+
+.rightbardown-Container{
+    height: 56vh;
+}
+
+.rightNavr-coontainer img{
+    height: 5vh;
+    width: 30px;
+    border-radius: 20px;
+    object-fit: cover;
+    margin-left: 60px;
+    margin-right: 20px;
+}
+
+.rightNavr-coontainer span{
+    color: whitesmoke;
+    margin-left: 1px;
+    color: whitesmoke;
+}
+
+
+.navbarNoti{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.image2-container h4{
+    margin-left: 80px;
+    margin-top: 0px;
+} 
+
+.git{
+    font-weight: 300;
+    font-size: 12px;
+}
+
+
+.myAbout p{
+    font-weight: 200;
+    font-size: 15px;
+}
+
+
+.react-icons{
+   
+    margin-left: 40px;
+    margin-top: 100px;
+}
+
+.myAbout span{
+    margin: 20px;
+}
+
+
